@@ -13,13 +13,13 @@
 2) Tutorial sobre o VSCode e o Java
   https://code.visualstudio.com/docs/java/java-tutorial
 
-2.1) Instalar o Visual Studio Code Java Pack
+  2.1) Instalar o Visual Studio Code Java Pack
   https://aka.ms/vscode-java-installer-win
 
-2.2) Instalar o Java Extension Pack
+  2.2) Instalar o Java Extension Pack
   vscode:extension/vscjava.vscode-java-pack
 
-2.3) Video Aula HelloWorld
+  2.3) Video Aula HelloWorld
   https://code.visualstudio.com/docs/java/java-tutorial/JavaHelloWorld.Standalone.mp4
 
 
