@@ -1,8 +1,4 @@
-# java
-Java 
-
-Curso Básico de Java
-====================
+# Curso Básico de Java
 
 1) Hello World
 2) Tipos de Dados
